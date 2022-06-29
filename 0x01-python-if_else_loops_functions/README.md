@@ -1,1 +1,1 @@
-My readme file for for python if else loop s functions
+My readme file for for python if else loops functions
