@@ -20,4 +20,4 @@ def best_score(a_dictionary):
 
             ret = k
 
-    return 
+    return ret
