@@ -2,6 +2,7 @@
 
 global div
 
+
 def safe_print_division(a, b):
     global div
     try:
@@ -10,4 +11,4 @@ def safe_print_division(a, b):
         div = None
     finally:
         print("Inside result: {}".format(div))
-        return
+    return div
